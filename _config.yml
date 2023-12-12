@@ -196,3 +196,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# addition
+math: true
+
+mermaid: true   # diagram generation tool
+
+img_path: /img/
