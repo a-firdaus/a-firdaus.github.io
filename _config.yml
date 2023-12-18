@@ -16,7 +16,7 @@ timezone: Europe/Brussels
 
 title: Alternate Garden # the main title
 
-tagline: # XXX Nurturing ideas for which betterment is the flower 🌻 # it will display as the sub-title
+tagline: Nurturing ideas for which betterment is the flower 🌻 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Scratch of thoughts, ideas, and uni-related technical writing.
@@ -29,16 +29,16 @@ github:
   username: a-firdaus # change to your github username
 
 twitter:
-  username: a_savanna # change to your twitter username
+  username: # a_savanna # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Azka Firdaus
-  email: azkasavanti@yahoo.com # change to your email address
+  name: A. Firdaus
+  email: a.to.z.firdaus@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/a_savanna # change to your twitter homepage
+    # - https://twitter.com/a_savanna # change to your twitter homepage
     - https://github.com/a-firdaus # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -79,7 +79,7 @@ avatar: https://0.gravatar.com/avatar/0fe130453cfd5f6bf88f0787b72782aa58edb6a336
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: 'disqus' # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname

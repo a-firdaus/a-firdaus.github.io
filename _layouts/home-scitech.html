@@ -10,18 +10,6 @@ refactor: true
 
 {% assign posts = '' | split: '' %}
 
-<!-- extraText: 
-Here I want to add some...
-
-{% if page.extraText %}
-    <p>{{ page.extraText }}</p>
-    <style>
-      .larger-font {
-        font-size: 25px; /* You can adjust the font size as needed */
-      }
-    </style>
-{% endif %} -->
-
 <!-- Get pinned posts -->
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
@@ -54,7 +42,7 @@ Here I want to add some...
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in site.posts %}      
-    {% if post.categories contains 'garden' %}
+    {% if post.categories contains 'scitech' %}
       <article class="card-wrapper card">
         <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
           {% assign card_body_col = '12' %}
