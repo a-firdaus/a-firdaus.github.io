@@ -1,7 +1,7 @@
 <!-- ---
 layout: home-garden
 icon: fas fa-seedling
-order: 2
+order: 6
 category: garden
 # Index page
 --- -->

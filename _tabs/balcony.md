@@ -1,6 +1,6 @@
 <!-- ---
 layout: home-balcony
 icon: fas fa-moon
-order: 3
+order: 7
 category: balcony
 --- -->
