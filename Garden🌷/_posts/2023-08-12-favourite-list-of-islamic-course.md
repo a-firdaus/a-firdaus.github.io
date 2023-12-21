@@ -1,7 +1,7 @@
 ---
 title: Favourite List of Islamic Courses
-date: 2023-08-12 12:00:00 +0200
-category: Garden
+date: 2023-08-12 12:15:00 +0200
+category: Garden🌷
 tags: [spiritual, review, islamic course]       # TAG names should always be lowercase
 # permalink: /garden/
 ---

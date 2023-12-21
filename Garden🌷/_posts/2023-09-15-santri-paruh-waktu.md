@@ -1,7 +1,7 @@
 ---
 title: Santri Paruh Waktu
 date: 2023-09-15 12:00:00 +0200
-category: Garden
+category: Garden🌷
 tags: [leisure time]       # TAG names should always be lowercase
 # permalink: /garden/
 ---

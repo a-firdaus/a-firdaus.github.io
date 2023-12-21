@@ -1,7 +1,7 @@
 ---
 title: Intention
 date: 2023-08-12 12:00:00 +0200
-category: Garden
+category: Garden🌷
 tags: [spiritual]       # TAG names should always be lowercase
 # permalink: /garden/
 ---

@@ -27,7 +27,7 @@ And We turned them over to the right, and to the left. (Al-Kahf, 18:18)
 
 Allah SWT has placed the young men in the cave where they still received sunlight from morning until dusk. Their bodies alternately turn over to the right, and to the left, depending on the direction of the sunshine filtered through the cave. They face one cave entrance, where the sunlight enters in the morning, and will roll, turn toward the opposite cave entrance, following the sun's direction.  
 
-This phenomena is called [_phototropism_](https://byjus.com/biology/phototropism/), and it primarily occurs in plants, where the plant has the ability of plant to bend towards the direction of the light source.  
+This phenomena is called [_phototropism_](https://byjus.com/biology/phototropism/), and it primarily occurs in plants, where plant has the ability to bend towards the direction of the light source.  
 
 Sunlight that fell upon the youth's body stimulates a small energy production that's required for the survival of vital organs, a process known as _photosynthesis_. In plants, this occurs so that they can obtain more nutrition and energy.
 
